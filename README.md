@@ -9,6 +9,10 @@
 ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝
 ```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00FF94&center=true&vCenter=true&width=500&lines=Building+AI-powered+music+experiences;Linux+%7C+macOS+%7C+Next.js+advocate;Learning+something+new+every+day)](https://git.io/typing-svg)
+
+</div>
+
 ```bash
 $ whoami
 > coding & linux enthusiast
@@ -24,10 +28,6 @@ const about = {
   currentlyBuilding: "Moodifyr - AI-powered music player"
 };
 ```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00FF94&center=true&vCenter=true&width=500&lines=Building+AI-powered+music+experiences;Linux+%7C+macOS+%7C+Next.js+advocate;Learning+something+new+every+day)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
