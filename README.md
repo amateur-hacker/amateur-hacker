@@ -19,7 +19,7 @@
 
 ## 🎵 What I'm Building
 
-> **𝑀𝑜𝑜𝒹𝒾𝒻𝓎𝓇** — A modern music player that lets you search songs, save favorites, create & share playlists, follow users, explore community playlists, and get **AI-powered mood insights**.
+> [**𝑀𝑜𝑜𝒅𝒊𝒇𝓎𝓇**](https://moodifyr.xyz) — A modern music player that lets you search songs, save favorites, create & share playlists, follow users, explore community playlists, and get **AI-powered mood insights**.
 
 ---
 
