@@ -14,8 +14,8 @@ const me = {
 
 ## 🎵 Moodifyr
 
-> A modern music player — search songs, save favorites, create & share playlists,
-> follow users, explore community content, and get **AI-powered mood insights**.
+> A modern music player for discovering and organizing your music—search songs, save favorites, create and share playlists, follow others, explore community  playlists, and generate and share AI-powered mood and listening insights.
+>
 >
 > **[moodifyr.xyz](https://moodifyr.xyz)**
 
