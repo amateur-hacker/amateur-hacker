@@ -3,7 +3,7 @@ const me = {
   role: "fullstack dev",
   os: ["linux", "macOS"],
   focus: "AI-powered applications",
-  built: ["Moodifyr", "Remynd"],
+  built: ["Moodifyr", "Remynd", "Patropen"],
   stack: ["Next.js", "TypeScript", "Tailwind CSS", "Zustand", "Hono.js", "PostgreSQL", "Redis", "Better Auth"],
   learning: "AI integration into real-world products",
   contact: "amateurhacker2004@gmail.com",
@@ -27,3 +27,11 @@ const me = {
 >
 >
 > **[remynd.hackr.space](https://remynd.hackr.space)**
+---
+
+## 🤝 Patropen
+
+> A marketplace connecting Substack creators with sponsors — discover creators by niche and audience, unlock profiles, and message them using tokens.
+>
+>
+> **[patropen.com](https://patropen.com)**
