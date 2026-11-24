@@ -3,7 +3,7 @@ const me = {
   role: "fullstack dev",
   os: ["linux", "macOS"],
   focus: "AI-powered applications",
-  building: "Moodifyr — AI powered music player",
+  built: ["Moodifyr", "Remynd"],
   stack: ["Next.js", "TypeScript", "Tailwind CSS", "Zustand", "Hono.js", "PostgreSQL", "Redis", "Better Auth"],
   learning: "AI integration into real-world products",
   contact: "amateurhacker2004@gmail.com",
@@ -18,3 +18,12 @@ const me = {
 >
 >
 > **[moodifyr.xyz](https://moodifyr.xyz)**
+
+---
+
+## 🧠 Remynd
+
+> An AI-powered personal memory space — save notes, links, images, quotes, and ideas in seconds, let AI organize and enrich them, and find anything later with natural-language search.
+>
+>
+> **[remynd.hackr.space](https://remynd.hackr.space)**
